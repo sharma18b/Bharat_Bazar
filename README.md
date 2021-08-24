@@ -22,7 +22,7 @@ $ cd frontend
 $ npm install
 $ npm start
 ```
-### You can open Port 3000.
+* You can open Port 3000.
 
 ## *Customer HomePage*
 
