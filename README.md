@@ -1,4 +1,4 @@
-# BharatBazaar ECommerce Website
+# BharatBazaar E-Commerce Website
 
 ## Funtionalities
 * User Authentication for surfing
