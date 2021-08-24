@@ -9,6 +9,7 @@
 * Customer Review panel or Experience Panel.
 * Multiple payment gateways
 * Ability to scale and add new features
+* Chatbot for user support
 
 ## Run Locally
 ### 1. Create Database - Atlas Cloud MongoDB
