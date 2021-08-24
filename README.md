@@ -1,5 +1,24 @@
 # BharatBazaar ECommerce Website
 
+## Funtionalities
+User Authentication for surfing
+•
+Searching and Predicting what a user wants to buy
+•
+Buying and Selling of Products
+•
+Products sorted by categories and different filters products
+•
+Creating Wishlist and Carts for a Purchase
+•
+Customer Review panel or Experience Panel.
+•
+Reward system for best performing sellers.
+•
+Multiple payment gateways
+•
+Ability to scale and add new features
+
 ## Run Locally
 ### 1. Create Database - Atlas Cloud MongoDB
 ```
