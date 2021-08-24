@@ -1,5 +1,4 @@
 # BharatBazaar E-Commerce Website
-Buying and Selling of products via the internet, and the transfer of money and data to complete the sales
 
 ## Funtionalities
 * User Authentication for surfing
