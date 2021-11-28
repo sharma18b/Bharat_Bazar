@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sharma18b/BharatBazar"
+    "url": "git+https://github.com/sharma18b/Bharat_Bazar"
   },
-  "author": "",
+  "author": "Rishabh Sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sharma18b/BharatBazar/issues"
+    "url": "https://github.com/sharma18b/Bharat_Bazar/issues"
   },
-  "homepage": "https://github.com/sharma18b/BharatBazar#readme",
+  "homepage": "https://github.com/sharma18b/Bharat_Bazar#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
